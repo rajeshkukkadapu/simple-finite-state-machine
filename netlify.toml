@@ -1,0 +1,8 @@
+[build]
+  publish = "public"
+  functions = "netlify/functions"
+
+[[redirects]]
+  from = "/api/fsm"
+  to = "/.netlify/functions/fsm"
+  status = 200
