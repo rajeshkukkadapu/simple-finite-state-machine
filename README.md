@@ -28,3 +28,28 @@ The frontend calls `/api/fsm`; the Netlify redirect routes that path to the serv
 For local use, the Express server in `server.js` provides the same API.
 
 Note: This is a recreated implementation based on the project title on the certificate, not recovered original coursework.
+
+
+Live Demo
+
+"Click here to view the Simple Finite State Machine project" (https://6ae58d1da44f4c0f83235124--nimble-hummingbird-d0e511.netlify.app)
+
+Project Description
+
+The Simple Finite State Machine (FSM) is a Node.js-based project that demonstrates how a turnstile changes states in response to events.
+
+Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Netlify Functions
+
+Features
+
+- Displays the current machine state.
+- Simulates coin insertion.
+- Simulates pushing the turnstile.
+- Provides a reset function.
+- Demonstrates state transitions.
